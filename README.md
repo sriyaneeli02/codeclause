@@ -1,1 +1,1 @@
-# codeclause
+A contact form with a captcha is an essential component of websites that require user interaction or communication. It serves as a means for visitors to send messages, inquiries, or feedback while preventing automated bots from submitting spam or malicious content. The captcha, which stands for "Completely Automated Public Turing test to tell Computers and Humans Apart," adds an extra layer of security by challenging users to prove their human identity.
